@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on **a Humanoid AI research paper**<br>👯 I’m looking to collaborate on **Open Source ML libraries & Python Backend Projects**<br>🤝 I’m looking for help with **advanced RAG pipelines and MLOps best practices**<br>🌱 I’m currently learning **FastAPI, Advanced DSA, and LLMs (LangChain)**<br>💬 Ask me about **Linear Algebra, Classical ML, or Neural Network Architecture**<br>⚡ Fun fact **I play badminton for fun!**
+🔭 Working on a research survey on data acquisition in humanoid robotics (in internal review)  
+🧠 Building data-centric machine learning systems with a focus on temporal modeling and computer vision  
+🏸 State-level badminton player, applying domain knowledge to ML-based sports analysis  
+👯 Open to collaborating on ML systems, computer vision, and data pipeline projects  
+🌱 Currently exploring advanced ML systems, retrieval pipelines, and scalable model design  
+💬 Ask me about machine learning pipelines, temporal modeling, and debugging ML systems  
 
 
 ## 🌐 Socials:
